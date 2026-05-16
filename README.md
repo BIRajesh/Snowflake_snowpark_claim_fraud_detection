@@ -1,0 +1,2 @@
+# Snowflake_snowpark_claim_fraud_detection
+ML in snowflake
